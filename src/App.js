@@ -11,7 +11,7 @@ function App() {
       <Nav></Nav>
       <Banner></Banner>
       <Row
-        title="NETFLIX ORIGINALS"
+        title="Test Commit"
         fetchUrl={requests.fetchNetflixOriginals}
         isLargeRow
       />
